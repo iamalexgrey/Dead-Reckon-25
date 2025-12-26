@@ -19,4 +19,6 @@
                                  ╚═════╝  ╚═════╝
 ```
 # LXTerminal
-Paste the configurations in the corresponding place in lxterminal.conf.
+Copy the configuration from the DeadReckon25.conf file to the appropriate place in the lxterminal.conf
+
+# QTerminal
