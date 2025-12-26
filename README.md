@@ -19,6 +19,7 @@
                                  ╚═════╝  ╚═════╝
 ```
 # LXTerminal
-Copy the configuration from the DeadReckon25.conf file to the appropriate place in the lxterminal.conf
+Copy the configuration from the DeadReckon25.conf file to the appropriate place in the lxterminal.conf.
 
 # QTerminal
+Copy the DeadReckon25.colorscheme file to /usr/share/qtermwidget5/color-schemes. In the QTerminal settings, select the appropriate color scheme.
