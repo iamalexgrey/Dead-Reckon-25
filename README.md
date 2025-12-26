@@ -18,4 +18,5 @@
                                 ╚██████╗  ██████╔╝
                                  ╚═════╝  ╚═════╝
 ```
-Terminal color scheme
+# LXTerminal
+Paste the configurations in the corresponding place in lxterminal.conf.
